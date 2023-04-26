@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Sebastian. I‘m 22 years old and currently a Computer Science Student in Germany. <br>My goal is to become a „Jack of all Trades“ in the IT domain, but still remain focused on Web-Development.
+Hi, my name is Sebastian. I‘m 22 years old and currently a Computer Science Student in Germany. <br>My goal is to become a „Jack of all Trades“ in the IT domain, but still remain focused on Web-Development and IT-Security.
 
 
 # 💻 Tech Stack:
